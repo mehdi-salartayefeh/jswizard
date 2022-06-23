@@ -79,5 +79,5 @@
     
 ```
 
-<a href="https://mehdi-salartayefeh.github.io/front-end/jswizard/">See Demo</a>
+<a href="https://mehdi-salartayefeh.github.io/front-end/jswizard/" target="_blank">See Demo</a>
 
